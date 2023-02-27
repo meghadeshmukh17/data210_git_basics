@@ -53,5 +53,21 @@ git version 2.30.2.windows.1
 ```
 - If Git is installed, it should show something like git version X.Y
 
+## Other version control providers
+### Bitbucket
+- Bitbucket is a Git hosting solution from Atlassian. 
+- Bitbucket Server is the self-hosted version of Bitbucket. 
+- Stackery supports both versions of the service, and can be set up with the following CLI commands:
+```
+stackery bitbucket setup [flags]
+stackery gitproviders setup -p myBitbucketServerName
+```
+### GitLab
+- GitLab is another Git provider that offers a variety of DevOps tools. Stackery supports both public and private repositories as well as GitLab groups. 
+- GitLab can be set up with the following CLI command:
+```
+stackery gitlab setup [flags]
+```
+
 
 
