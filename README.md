@@ -1,16 +1,16 @@
 # data210_git_basics
-##Git
+## Git
 
-**What is Git?
+** What is Git?
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
 
-**Git is used for:
+** Git is used for:
 
 - Tracking code changes
 - Tracking who made changes
 - Coding collaboration
 
-**What does Git do?
+** What does Git do?
 - Manage projects with Repositories
 - Clone a project to work on a local copy
 - Control and track changes with Staging and Committing
@@ -18,7 +18,7 @@ Git is a popular version control system. It was created by Linus Torvalds in 200
 - Pull the latest version of the project to a local copy
 - Push local updates to the main project
 
-**Working with Git
+** Working with Git
 - Initialize Git on a folder, making it a Repository
 Git now creates a hidden folder to keep track of changes in that folder
 - When a file is changed, added or deleted, it is considered modified
@@ -28,13 +28,13 @@ Git now creates a hidden folder to keep track of changes in that folder
 - You can revert back to any previous commit.
 - Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
 
-**Why Git?
+** Why Git?
   - Over 70% of developers use Git!
   - Developers can work together from anywhere in the world.
   - Developers can see the full history of the project.
   - Developers can revert to earlier versions of a project.
 
-**What is GitHub?
+** What is GitHub?
   - Git is not the same as GitHub.
   - GitHub makes tools that use Git.
   - GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
